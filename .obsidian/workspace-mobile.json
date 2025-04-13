@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250413 Baptism Sunday.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250413 Baptism Sunday"
+              "title": "README"
             }
           }
         ],
@@ -165,8 +165,8 @@
   },
   "active": "d32319a2a1d31a17",
   "lastOpenFiles": [
-    "250406 The Return of the King 14.md",
     "250413 Baptism Sunday.md",
+    "250406 The Return of the King 14.md",
     "250330 The Return of the King 13.md",
     "250323 The Return of the King 12.md",
     "250316 The Return of the King 11.md",
