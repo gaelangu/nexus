@@ -34,7 +34,6 @@
     - Make sure we are on the receiving end of the bible everyday.
     - Come prepared to listen to God's word.
     - No gospel = no godliness
-- 
 ----
 *Thinking it through…*
 1. *How have you been helped to think about how you can grow in godliness?*
