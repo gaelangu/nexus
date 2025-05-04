@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d6a7b17f0109235",
+            "id": "8670f9e816649692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250406 The Return of the King 14.md",
+                "file": "250504 Blueprint for a Healthy Church 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250406 The Return of the King 14"
-            }
-          },
-          {
-            "id": "d32319a2a1d31a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "5140d9c9c55b75b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250418 Good Friday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250418 Good Friday"
-            }
-          },
-          {
-            "id": "3b3ea68dffc65605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250427 Blueprint for a Healthy Church 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250427 Blueprint for a Healthy Church 1"
+              "title": "250504 Blueprint for a Healthy Church 2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b3ea68dffc65605",
+  "active": "8670f9e816649692",
   "lastOpenFiles": [
-    "250420 Alive - Easter Sunday.md",
     "250427 Blueprint for a Healthy Church 1.md",
+    "250504 Blueprint for a Healthy Church 2.md",
+    "250420 Alive - Easter Sunday.md",
     "250418 Good Friday.md",
     "Untitled",
     "README.md",
