@@ -26,6 +26,6 @@
 - Jesus expects us to advance the gospel with everything we have.
 
 ----
-*Thinking it through...*
+# *Thinking it through...*
 1. *What will taking gospel advance seriously look like for you in 2025?*
 2. *How does the generosity of Jesus propel you to advance His kingdom?*

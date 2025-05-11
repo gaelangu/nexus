@@ -23,7 +23,7 @@
 
 
 ----
-*Thinking it through...*
+# *Thinking it through...*
 1. *How does it help you to know that God is in control of all things, between Jesus’ first and second coming? What makes you struggle to believe it?*
 2. *How have Jesus’ words shaped how you will wait for him?*
 

@@ -28,7 +28,7 @@ Our mission does not stop with sharing the gospel.
 - How does this add to the significance of what Jesus says about himself, and therefore what he commands us to do?
 
 ----
-*Thinking it through…*
+# *Thinking it through…*
 *“Make disciples”: How has your life’s mission been clarified today? How will that impact how you live from now on?*
 
 *What holds you back from making disciples overseas? How has God’s word challenged you today?*

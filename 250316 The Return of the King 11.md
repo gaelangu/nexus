@@ -15,7 +15,7 @@
 # Conclusion
 
 ----
-*Thinking it through…*
+# *Thinking it through…*
 1. *How does this passage help you understand why people in your life reject Jesus?*
 *(a) Which of the groups did you find most relatable personally?*
 2. *How does this passage shape your view of God’s justice?*

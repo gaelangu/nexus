@@ -15,7 +15,7 @@ This is regarded as the turning point in history. The cross is the climactic and
 - Only God can make us see Jesus' death as a climactic point in history. 
 
 ----
-*Thinking it through…*
+# *Thinking it through…*
 1. *How Jesus’ Kingship (humility & self-sacrifice) is counter-cultural & counter-intuitive.*
 *(a) Which aspects of Jesus’ Kingship cut against what our world values & aspires?*
 *(b) Which aspects have turned your world right side up?*

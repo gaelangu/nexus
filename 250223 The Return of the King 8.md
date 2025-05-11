@@ -24,7 +24,7 @@
 # Response: Recognise, Rejoice, Remember!
 
 ----
-*Thinking it through...*
+# *Thinking it through...*
 1. *How does Judas’ betrayal help you see the gravity of sin and your need for Jesus?* 
 2. *How does this passage shape your view of Jesus, and your relationship with God?*
 

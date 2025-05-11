@@ -29,6 +29,6 @@
 
 
 ----
-*Thinking it through...*
+# *Thinking it through...*
 1. *What steps can you take to be personally ready for Jesus’ return?*
 2. *Does Jesus’ return (i.e. the great wedding feast) fill you with anticipation and excitement or fear? Pray for a growing expectation of it.*

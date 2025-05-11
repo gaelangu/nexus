@@ -26,7 +26,7 @@
 - How are we any different from Judas if we look at Jesus as worthless and are willing to trade Him for the things of this world?
 
 ----
-*Thinking it through...*
+# *Thinking it through...*
 1. *How has your view of Jesus and His death as the Passover sacrifice been enlarged?* 
 2. *Does your life, decisions & priorities reflect that Jesus and His death is precious or worthless?*
 

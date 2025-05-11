@@ -18,7 +18,7 @@
 
 
 ----
-*Thinking it through…*
+# *Thinking it through…*
 1. *How has Matthew helped you better understand unbelief? How does that help you?*
 2. *Are you rejoicing in the resurrection? How could God’s word today help you do so more?*
 *Pray: give thanks that Jesus is alive, that we can believe he truly is our king and saviour, and that we wouldn’t be discouraged by those who don’t believe it.*
