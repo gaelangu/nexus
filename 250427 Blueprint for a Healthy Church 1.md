@@ -35,7 +35,7 @@
     - Come prepared to listen to God's word.
     - No gospel = no godliness
 ----
-*Thinking it through…*
+# *Thinking it through…*
 1. *How have you been helped to think about how you can grow in godliness?*
 2. *What could you do to be on the receiving end of the Bible more?*
 *Pray: For desire, focus and discipline to be on the receiving end of the Bible at church, CG/WoW, family, personal time.*

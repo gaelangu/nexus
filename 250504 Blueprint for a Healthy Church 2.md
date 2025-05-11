@@ -34,6 +34,6 @@
 - Silence and sharply rebuke false teachers.
 - We need those with guts and spiritual steel.
 ----
-*Thinking it through…*
+## *Thinking it through…*
 1) *How have you been sharpened in your thinking about what we need to pray and work towards at The Crossing?*
 2) *If you are considering full-time ministry: How have you been challenged?*
