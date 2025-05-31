@@ -20,8 +20,79 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "56721d489890ae83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "250531 Camp Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250531 Camp Session 1"
+            }
+          },
+          {
+            "id": "69dc2dca9732bea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "250531 Camp Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250531 Camp Session 2"
+            }
+          },
+          {
+            "id": "11a99c5d615d9983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "250601 Camp Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250601 Camp Session 3"
+            }
+          },
+          {
+            "id": "a9fd2d4048e71a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "250601 Camp Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250601 Camp Session 4"
+            }
+          },
+          {
+            "id": "e5d32844d93b877f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "250602 Camp Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250602 Camp Session 5"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,10 +239,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2f84ecc460349be",
+  "active": "e5d32844d93b877f",
   "lastOpenFiles": [
-    "250413 Baptism Sunday.md",
+    "250601 Camp Session 4.md",
+    "250602 Camp Session 5.md",
+    "images/250602-image-1.png",
+    "images",
+    "untitled folder",
+    "Screenshot 2025-05-31 at 7.57.07 AM.png",
+    "250601 Camp Session 3.md",
+    "250531 Camp Session 1.md",
+    "250531 Camp Session 2.md",
     "README.md",
+    "250413 Baptism Sunday.md",
     "250406 The Return of the King 14.md"
   ]
 }
