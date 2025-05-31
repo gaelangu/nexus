@@ -1,7 +1,6 @@
 *Romans 1:1–15*
-h 
 # Introduction — word association
-
+- 
 # 1. The motivation for evangelism (1:8–15)
 
 Romans 15:24
