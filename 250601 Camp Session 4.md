@@ -18,11 +18,32 @@
 > **Pray:** For God to send us out as gospel labourers in His harvest, willing to share Jesus with the people God has placed in our lives.
 
 ## (b) So…what’s holding us back in evangelism?
-
+- Spiritual
+- Social
+- Skills
 ## (c) Evangelising in our world today
 
-👨‍👩‍👦🧱🧱🧱✝️
 ![[250602-image-1.png]]
+- Is it **PLAUSIBLE**?
+	- Logical?
+	- Historical? 
+	- True?
+- Is it **DESIRABLE**?
+	- Compelling? 
+	- Attractive? 
+	- Good? 
+- Is it **TANGIBLE**?
+	- Real? 
+	- Practical? 
+	- Difference?
+
+***Key: Hospitality + sharing lives***
+
+4 mindset shifts:
+1. Pessimistic ➡️ Prayerful
+2. Inviter ➡️ Evangelist
+3. Tell ➡️ Tell + Show
+4. Individual ➡️ Partners
 
 > **Discuss:** How have you been challenged to rethink evangelism?
 > 
