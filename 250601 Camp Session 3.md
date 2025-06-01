@@ -1,15 +1,26 @@
 *Romans 3:21–31*
 
 # Introduction — facing the unstoppable storm of God’s wrath
-
+- We cannot plead ignorance because God's work is plain to see.
+- There are 2 problems:
+    - Our unrighteousness has caused the wrath of God.
+    - 
 # 1. Declared righteous—come on a day trip v21–26
 
-- Justification—the law court
-- Redemption—the slave market
-- Propitiation—the temple
+- Justification—the law court ⚖️
+	- We are justified by grace.
+- Redemption—the slave market ☹️
+	- We discover we are one of the slaves - in chains. 
+	- When we ran away from our Master, we became enslaved to other masters.
+	- Our old Master paid with his son to set us free.
+- Propitiation—the temple ⛪
+	- Even if he declares us worthy, he does not become unrighteous but shows his righteousness.
+	- The cross is the only way to be rescued from God's wrath.
 
+- In declaring wicked people righteous, God himself is righteous.
+- The law only tells me I have sinned but it does not cleanse me of my sin.
 # 2. Humbled—go on a lifetime mission v27–31
-
+- We cannot be saved from keeping the law.
 # Conclusion
 - 1:14 I am under obligation to proclaim the gospel to everyone
 - 1:15 I am eager to proclaim the gospel to Christians

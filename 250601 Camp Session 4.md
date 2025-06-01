@@ -20,6 +20,8 @@
 ## (b) So…what’s holding us back in evangelism?
 
 ## (c) Evangelising in our world today
+
+👨‍👩‍👦🧱🧱🧱✝️
 ![[250602-image-1.png]]
 
 > **Discuss:** How have you been challenged to rethink evangelism?

@@ -1,8 +1,11 @@
 *Romans 1:18–3:20*
 
 # Introduction — dominoes
+- Sin starts off a chain of dominoes that collapses our concepts of the `CROSS` and `GRACE`.
 # 1. Sin is primarily theological—an offence against God
 - a sociological problem
+    - Flows from rejection of God
+    - If I don't hurt anyone, how can it be wrong?
 - a moral/legal problem
 - a psychological problem
 # 2. Sin is utterly universal
