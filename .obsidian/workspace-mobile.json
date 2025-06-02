@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8670f9e816649692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250504 Blueprint for a Healthy Church 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250504 Blueprint for a Healthy Church 2"
-            }
-          },
-          {
             "id": "2fa5b8177c2877c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250601 Camp Session 4.md",
+                "file": "250602 Camp Session 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250601 Camp Session 4"
+              "title": "250602 Camp Session 5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,9 +150,9 @@
   },
   "active": "2fa5b8177c2877c9",
   "lastOpenFiles": [
-    "250601 Camp Session 3.md",
     "250601 Camp Session 4.md",
     "250602 Camp Session 5.md",
+    "250601 Camp Session 3.md",
     "250531 Camp Session 2.md",
     "250531 Camp Session 1.md",
     "250525 Blueprint for a Healthy Church 5.md",
