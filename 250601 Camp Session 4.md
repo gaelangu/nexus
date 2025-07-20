@@ -23,7 +23,6 @@
 - Skills
 ## (c) Evangelising in our world today
 
-![[250602-image-1.png]]
 - Is it **PLAUSIBLE**?
 	- Logical?
 	- Historical? 
